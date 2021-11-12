@@ -6,6 +6,8 @@ public class Homework1 {
         System.out.println("Goodbye world!");
 
         System.out.println("asdasd");
+
+        System.out.println("asc");
     }
 
 }
